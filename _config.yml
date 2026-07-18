@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Najmi Hassan"
 title_separator          : "-"
 name                     : &name "Najmi Hassan"
-description              : &description "Najmi Hassan's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Najmi Hassan — ML, deep learning, computer vision, and multi-agent systems."   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://najmihassan.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -26,9 +26,9 @@ author:
   avatar           : "profile1.png"
   name             : "Najmi Hassan"
   pronouns         : # example: "he/him"  
-  bio              : "Software Engineer"
+  bio              : "Software Engineering graduate working across ML, deep learning, computer vision, and multi-agent systems."
   location         : "Lahore, Pakistan"
-  employer         : "Minhaj University"
+  employer         :
   uri              : # URL
   email            : "najmihassan.dev@gmail.com" 
 

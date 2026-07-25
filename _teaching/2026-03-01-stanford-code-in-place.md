@@ -4,7 +4,7 @@ collection: teaching
 type: "Section Leader (Volunteer)"
 permalink: /teaching/stanford-code-in-place
 venue: "Stanford Code in Place, California, USA (Remote)"
-date: 2025-05-01
+date: 2026-03-01
 location: "California, USA (Remote)"
 excerpt: |
   *April – May 2025*

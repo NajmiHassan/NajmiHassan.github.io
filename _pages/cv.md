@@ -17,12 +17,12 @@ CGPA: 3.67/4.00
 
 Experience
 ======
-**GenAI Course Mentor and Judge**, Aug 2025 – Feb 2026  
+**GenAI Course Mentor and Judge**  
 *Aptech, San Jose, USA (Remote)*
 * Delivered 10+ Generative AI workshops, training 500+ participants and improving hands-on adoption of AI tools
 * Mentored participants and evaluated 50+ GenAI hackathon projects
 
-**Instructor & Moderator**, Nov 2024 – Present  
+**Instructor & Moderator**  
 *iCodeGuru, California, USA (Remote)*
 * Moderated and taught Python and Data Analysis course to non-technical audiences
 * Taught IELTS and Duolingo English Test to underprivileged students
@@ -35,7 +35,7 @@ Experience
 
 Volunteer Work
 ======
-**Stanford Code in Place** — Section Leader, April – May 2025  
+**Stanford Code in Place** — Section Leader  
 *California, USA (Remote)*
 * Taught Stanford's CS106A: Introduction to Python online to international students
 * Completed Stanford's 3.5-hour teaching training program

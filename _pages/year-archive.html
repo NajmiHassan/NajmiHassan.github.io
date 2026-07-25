@@ -1,13 +1,17 @@
 ---
 layout: archive
 permalink: /year-archive/
-title: "Blog posts"
+title: "Technical Writeups"
 author_profile: true
 redirect_from:
   - /wordpress/blog-posts/
 ---
 
 {% include base_path %}
+
+<h2 id="preprints">Preprints &amp; Technical Writeups</h2>
+<p>Hassan, N. (2026). A Comparison of Prompting Strategies for Text-to-SQL Generation on the Spider Benchmark. Zenodo. <a href="https://doi.org/10.5281/zenodo.21403260">https://doi.org/10.5281/zenodo.21403260</a></p>
+
 {% capture written_year %}'None'{% endcapture %}
 {% for post in site.posts %}
   {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
